@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SampleFirstReact/static/css/main.154c2f8e.chunk.css",
+    "main.js": "/SampleFirstReact/static/js/main.89577e17.chunk.js",
+    "main.js.map": "/SampleFirstReact/static/js/main.89577e17.chunk.js.map",
+    "runtime-main.js": "/SampleFirstReact/static/js/runtime-main.41e818e0.js",
+    "runtime-main.js.map": "/SampleFirstReact/static/js/runtime-main.41e818e0.js.map",
+    "static/js/2.082b012e.chunk.js": "/SampleFirstReact/static/js/2.082b012e.chunk.js",
+    "static/js/2.082b012e.chunk.js.map": "/SampleFirstReact/static/js/2.082b012e.chunk.js.map",
+    "static/js/3.7b049c65.chunk.js": "/SampleFirstReact/static/js/3.7b049c65.chunk.js",
+    "static/js/3.7b049c65.chunk.js.map": "/SampleFirstReact/static/js/3.7b049c65.chunk.js.map",
+    "index.html": "/SampleFirstReact/index.html",
+    "static/css/main.154c2f8e.chunk.css.map": "/SampleFirstReact/static/css/main.154c2f8e.chunk.css.map",
+    "static/js/2.082b012e.chunk.js.LICENSE.txt": "/SampleFirstReact/static/js/2.082b012e.chunk.js.LICENSE.txt",
+    "static/media/Planet9_3840x2160.38780bb9.jpg": "/SampleFirstReact/static/media/Planet9_3840x2160.38780bb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41e818e0.js",
+    "static/js/2.082b012e.chunk.js",
+    "static/css/main.154c2f8e.chunk.css",
+    "static/js/main.89577e17.chunk.js"
+  ]
+}
